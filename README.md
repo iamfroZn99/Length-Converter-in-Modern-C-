@@ -1,6 +1,6 @@
 Length Coverter in C++
 
-It is a simple and concise version of an example given in Ivor Horton's C++20: Beginner to Beyond book, the context has been made a bit more user friendly and also format library is used which helps in putting variables.
+It is a simple and concise version of an example given in Ivor Horton's C++20: Beginner to Beyond book, the syntax has been made a bit more user friendly and also format library is used which helps in putting variables.
 
 It takes your input in yards, feet and inches and converts it into inches and then takes inches and converts it into yards, feet and inches. 
 
